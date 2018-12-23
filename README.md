@@ -1,4 +1,4 @@
-# encbash
+
 # Bash Encrypter
 # [ How to install ]
 ```
